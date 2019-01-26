@@ -5,7 +5,7 @@
 \RequirePackage{titlesec}
 
 \titleformat{\section}         % Customise the \section command 
-  {\large\bf\raggedright\sffamily}         % Make the \section headers large (\Large),
+  {\large\raggedright\sffamily}         % Make the \section headers large (\Large),
                                % small capitals (\scshape) and left aligned (\raggedright)
   {}{0em}                      % Can be used to give a prefix to all sections, like 'Section ...'
   {}                           % Can be used to insert code before the heading
